@@ -35,7 +35,7 @@
         @vite(['resources/css/app.css', 'resources/js/app.js'])
 
     </head>
-    <body class="font-sans antialiased bg-black">
+    <body class="font-sans antialiased bg-white">
         {{-- <div class="flex justify-center py-4">
             <img class="h-32" src="{{ asset('images/logo-circle.png') }}" alt="Ardenti Logo">
         </div> --}}
