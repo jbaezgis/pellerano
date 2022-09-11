@@ -1,7 +1,7 @@
 @section('title', __('Inicio'))
 <div>
     
-    <div class="bg-blue-700 py-10 text-white">
+    <div class="bg-blue-700 py-10 text-white w-full">
         <div class="grid grid-cols-1 lg:grid-cols-2 justify-center">
             <div class="flex justify-center">
                 <div><img class="max-w-md" src="{{ asset('images/foto-pellerano.png') }}" alt="Pellerano"></div>
