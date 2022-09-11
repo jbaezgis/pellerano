@@ -10,13 +10,13 @@
                 <div class="text-6xl font-courgette">
                     A Toa con
                 </div>
-                <div class="text-4xl">
+                <div class="text-3xl lg:text-4xl">
                     ING MIGUEL FELIZ BAEZ
                 </div>
-                <div class="text-4xl font-anton text-8xl">
+                <div class="text-4xl font-anton text-5xl lg:text-8xl">
                     PELLERANO
                 </div>
-                <div class="text-4xl font-anton text-5xl">
+                <div class="text-4xl font-anton text-3xl lg:text-5xl">
                     MI DIPUTADO
                 </div>
                 <div class="py-4 flex justify-center">
