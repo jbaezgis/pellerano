@@ -19,8 +19,8 @@
         <meta property="og:locale" content="{{ app()->getLocale() }}" />
         <meta property="og:locale:alternate" content="es_ES" />
         <meta property="og:site_name" content="Pellerano" />
-        <meta property="og:image" content="@yield('og-image')" />
-        <meta property="og:image:url" content="@yield('og-image-url')" />
+        <meta property="og:image" content="{{asset('images/cover-image.png')}}" />
+        <meta property="og:image:url" content="{{asset('images/cover-image.png')}}" />
 
         <!-- Fonts -->
         {{-- <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap"> --}}
