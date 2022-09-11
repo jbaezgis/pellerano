@@ -59,7 +59,7 @@
             </main>
         </div>
 
-        <footer class="border-t bg-white py-4">
+        {{-- <footer class="border-t bg-white py-4">
             <div class="text-xl text-center font-courgette text-gray-700">
                 Sabor y calidad en cada bocado!
             </div>
@@ -85,7 +85,7 @@
                     </div>
                 </div>
             </div>
-        </footer>
+        </footer> --}}
 
         @stack('modals')
 

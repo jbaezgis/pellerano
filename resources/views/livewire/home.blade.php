@@ -1,8 +1,32 @@
 @section('title', __('Inicio'))
 <div>
     
-<div class="bg-blue-700 py-10 text-white">
-    testing
-</div>
+    <div class="bg-blue-700 py-10 text-white">
+        <div class="flex justify-center">
+            <div class="">
+                <div><img class="max-w-lg" src="{{ asset('images/foto-pellerano.png') }}" alt="Pellerano"></div>
+            </div>
+            <div class="s">
+                <div class="text-6xl font-courgette">
+                    A Toa con
+                </div>
+                <div class="text-4xl">
+                    ING MIGUEL FELIZ BAEZ
+                </div>
+                <div class="text-4xl font-anton text-8xl">
+                    PELLERANO
+                </div>
+                <div class="text-4xl font-anton text-5xl">
+                    MI DIPUTADO
+                </div>
+                <div class="py-4">
+                    <div><img class="" src="{{ asset('images/logo-prm.png') }}" alt="Logo PRM"></div>
+                </div>
+            </div>
+        </div>
+        <div class="text-center font-anton text-4xl">
+            BARAHONA PARA TOD@S
+        </div>
+    </div>
 
 </div>
